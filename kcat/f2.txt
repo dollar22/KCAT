@@ -1,0 +1,5 @@
+this is f2.txt
+
+
+
+this is ending of f2.txt

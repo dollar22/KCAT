@@ -1,0 +1,7 @@
+1 This is f1
+2 
+3 ending of f1
+4 this is f2.txt
+5 
+6 this is ending of f2.txt
+7 
